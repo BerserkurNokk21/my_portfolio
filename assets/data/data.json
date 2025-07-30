@@ -94,7 +94,7 @@
             "icon": "gamepad-2",
             "title": "Rush Market",
             "subtitle": "Producer, programador, Game Designer",
-            "description": "Videojuego multijugador competitivo desarrollado en Unity. Implementación de mecánicas de juego, sistema de networking y gestión de estados de partida.",
+            "description": "Videojuego multijugador competitivo desarrollado en Unity. Implementación de mecánicas de juego, sistema de networking y gestión de estados de partida. 🏆 Proyecto galardonado con Matrícula de Honor como mejor alumno valorado.",
             "technologies": [
                 {
                     "icon": "devicon-csharp-plain",
@@ -113,7 +113,7 @@
             "icon": "lightbulb",
             "title": "The Lighthouse",
             "subtitle": "Programador, gestor de ticketing",
-            "description": "Videojuego narrativo que aborda de manera sensible y profunda el proceso de duelo tras la pérdida de un ser querido",
+            "description": "Videojuego narrativo que aborda de manera sensible y profunda el proceso de duelo tras la pérdida de un ser querido. 🏆 Ganador del Premio del Jurado al Mejor Juego Valorado de 3er.",
             "technologies": [
                 {
                     "icon": "devicon-csharp-plain",
