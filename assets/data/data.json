@@ -1,0 +1,165 @@
+{
+    "title": "Oscar Peris Espejo | Portafolio",
+    "description": "Soy Oscar, un entusiasta del mundo de los videojuegos",
+    "image": "/avatarmine.jpg",
+    "avatar": "/avatarmine.jpg",
+    "name": "Oscar Peris Espejo",
+    "skill": "Programador y tecnico base de datos",
+    "location": "Manises (Valencia), CP: 46940",
+    "media": {
+        "email": "oscesp200@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/BerserkurNokk21",
+        "likedin": "www.linkedin.com/in/oscar-peris-espejo-386370360"
+    },
+    "about": "Desarrollador y gamer de corazón, vivo inmerso en el universo de los videojuegos explorando cada rincón de esta industria que me fascina. Cada proyecto es una oportunidad para aprender algo nuevo, y cada obstáculo, una invitación a superarme.",
+    "technologies": [
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+        {
+            "icon": "devicon-unity-plain",
+            "name": "Unity"
+        },
+        {
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-github-plain",
+            "name": "Github"
+        },
+        {
+            "icon": "devicon-gitlab-plain",
+            "name": "Gitlab"
+        },
+        {
+            "icon": "devicon-tortoisegit-plain",
+            "name": "TortoiseHG"
+        },
+        {
+            "icon": "devicon-minitab-plain",
+            "name": "Kanbanize"
+        },
+        {
+            "icon": "devicon-linux-plain",
+            "name": "Linux"
+        },
+        {
+            "icon": "devicon-ubuntu-plain",
+            "name": "Ubuntu"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-windows8-original",
+            "name": "Windows Server"
+        },
+        {
+            "icon": "devicon-bash-plain",
+            "name": "Bash/PowerShell"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "database",
+            "title": "Tecnico de Base de datos",
+            "subtitle": "Tecnico",
+            "description": "Gestión y optimización de bases de datos empresariales. Migración de datos, mantenimiento de sistemas y soporte técnico especializado.\\n Lugar realizado: Winfra Planificacion de Recursos Empresariales SL.",
+            "url": "https://www.winfra.es",
+            "date": "2020 - Actualidad"
+        },
+        {
+            "icon": "code",
+            "title": "Proyectos Unity",
+            "subtitle": "Programador y gestor",
+            "description": "Ayude en el desarrollo y gestion de grandes proyectos del grado.\n Lugar realizado: Florida Universitària \n Grado:  Diseño y Desarrollo de Videojuegos y Experiencias Interactivas",
+            "url": "https://www.floridauniversitaria.es/titulacion/grado-en-diseno-y-desarrollo-de-videojuegos-y-experiencias-interactivas",
+            "date": "2021 - 2026"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "gamepad-2",
+            "title": "Rush Market",
+            "subtitle": "Producer, programador, Game Designer",
+            "description": "Videojuego multijugador competitivo desarrollado en Unity. Implementación de mecánicas de juego, sistema de networking y gestión de estados de partida.",
+            "technologies": [
+                {
+                    "icon": "devicon-csharp-plain",
+                    "name": "C#"
+                },
+                {
+                    "icon": "devicon-unity-plain",
+                    "name": "Unity"
+                }
+            ],
+            "image": "/rushmarket.jpg",
+            "tdd": "/data/TDD_Rush_Market.pdf",
+            "github": "https://github.com/BerserkurNokk21/Rusher_Market_Repository/tree/main"
+        },
+        {
+            "icon": "lightbulb",
+            "title": "The Lighthouse",
+            "subtitle": "Programador, gestor de ticketing",
+            "description": "Videojuego narrativo que aborda de manera sensible y profunda el proceso de duelo tras la pérdida de un ser querido",
+            "technologies": [
+                {
+                    "icon": "devicon-csharp-plain",
+                    "name": "C#"
+                },
+                {
+                    "icon": "devicon-unity-plain",
+                    "name": "Unity"
+                }
+            ],
+            "image": "/lighthouse.jpg",
+            "tdd": "/data/GDD_The_Lighthouse.pdf",
+            "gitlab": "https://gitlab.com/ddgarpan147/project-lighthouse",
+            "url": "https://drive.google.com/file/d/1SKfzzWH2jToERADQbkvTN_QiOWuepYBY/view?usp=drive_link"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Centro de formación Tnext, titulo ciclo superior de Administración de Sistemas Informáticos (ASIR)",
+            "subtitle": "Academia ciclos grado medio y superior",
+            "description": "Durante mi formación en Administración de Sistemas Informáticos, aprendí a gestionar y mantener infraestructuras IT completas. Adquirí conocimientos en administración de servidores Windows y Linux, diseño e implementación de redes corporativas, y aplicación de medidas de seguridad informática. Me especialicé en la gestión de bases de datos, virtualización de sistemas y automatización de procesos mediante scripting. También desarrollé habilidades en monitorización de rendimiento, resolución de incidencias técnicas y soporte a usuarios.",
+            "date": "2020 - 2022",
+            "certificate": "https://tnext.es/grado-superior-administracion-sistemas-informaticos"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Florida Universitària, grado Diseño y Desarrollo de Videojuegos y Experiencias Interactivas",
+            "subtitle": "Centro de Formacion ciclos, grados universitarios y masters",
+            "description": "Durante mi formación en el Grado en Diseño y Desarrollo de Videojuegos y Experiencias Interactivas, me especialicé en el área de programación y desarrollo técnico. Aprendí fundamentos de programación aplicados específicamente a videojuegos, desarrollo con motores como Unity y Unreal Engine, y programación de scripts y lógicas de juego. Me formé en matemáticas y física para videojuegos, implementación de sistemas de colisiones y movimientos en entornos 2D y 3D, y desarrollo de inteligencia artificial para NPCs. También adquirí conocimientos en gráficos por computador, optimización de rendimiento para múltiples plataformas, programación para entornos multijugador y sociales, y desarrollo de experiencias en realidad virtual y aumentada.",
+            "date": "2022 - 2026",
+            "certificate": "https://www.floridauniversitaria.es/titulacion/grado-en-diseno-y-desarrollo-de-videojuegos-y-experiencias-interactivas"
+        }
+    ],
+    "extras": [
+        {
+        "image": "/unity.png",
+        "title": "Especialización Unity",
+        "description": "Desarrollo avanzado en Unity con C#, implementando sistemas de gameplay.",
+        "url": "https://unity.com/"
+        },
+        {
+        "image": "/postgres.png",
+        "title": "Gestión de Bases de Datos",
+        "description": "4+ años de experiencia profesional en PostgreSQL, optimización de consultas y migración de datos empresariales.",
+        "url": "https://www.postgresql.org/"
+        }
+    ]
+}
