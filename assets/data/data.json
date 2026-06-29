@@ -1,18 +1,18 @@
 {
     "title": "Oscar Peris Espejo | Portfolio",
-    "description": "Desarrollador de Videojuegos y Tecnico de Base de Datos",
+    "description": "Desarrollador de Videojuegos y Técnico de Base de Datos",
     "image": "/avatarmine.jpg",
     "avatar": "/avatarmine.jpg",
     "name": "Oscar Peris Espejo",
     "skill": "Game Developer & DB Technician",
-    "location": "Manises (Valencia), Espana",
+    "location": "Manises (Valencia), España",
     "media": {
         "email": "oscesp200@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/BerserkurNokk21",
         "likedin": "www.linkedin.com/in/oscar-peris-espejo-386370360"
     },
-    "about": "Desarrollador de videojuegos y tecnico de bases de datos con pasion por crear experiencias interactivas.",
+    "about": "Desarrollador de videojuegos y técnico de bases de datos con pasión por crear experiencias interactivas.",
     "technologies": [
         {
             "icon": "devicon-unity-plain",
@@ -58,9 +58,9 @@
     "experience": [
         {
             "icon": "database",
-            "title": "Tecnico de Base de Datos",
-            "subtitle": "Winfra Planificacion de Recursos Empresariales SL",
-            "description": "Gestion y optimizacion de bases de datos empresariales. Migracion de datos, mantenimiento de sistemas y soporte tecnico especializado.",
+            "title": "Técnico de Base de Datos",
+            "subtitle": "Winfra Planificación de Recursos Empresariales SL",
+            "description": "Gestión y optimización de bases de datos empresariales. Migración de datos, mantenimiento de sistemas y soporte técnico especializado.",
             "url": "https://www.winfra.es",
             "date": "2020 - Actualidad"
         },
@@ -68,7 +68,7 @@
             "icon": "code",
             "title": "Desarrollador Unity",
             "subtitle": "Florida Universitaria",
-            "description": "Desarrollo y gestion de proyectos de videojuegos en Unity. Implementacion de sistemas de gameplay, networking y arquitectura de software.",
+            "description": "Desarrollo y gestión de proyectos de videojuegos en Unity. Implementación de sistemas de gameplay, networking y arquitectura de software.",
             "url": "https://www.floridauniversitaria.es/titulacion/grado-en-diseno-y-desarrollo-de-videojuegos-y-experiencias-interactivas",
             "date": "2021 - 2026"
         }
@@ -77,8 +77,8 @@
         {
             "icon": "gamepad-2",
             "title": "ToyMaggedon",
-            "subtitle": "Hack & Slash de tematica de juguetes",
-            "description": "Hack and Slash 3D con estetica de figuras de juguete. Sistema de combos con ataques ligeros/pesicos, ejecuciones, multiples tipos de enemigos y boss fight con 7 estados de IA.",
+            "subtitle": "Hack & Slash de temática de juguetes",
+            "description": "Hack and Slash 3D con estética de figuras de juguete. Sistema de combos con ataques ligeros/pesicos, ejecuciones, múltiples tipos de enemigos y boss fight con 7 estados de IA.",
             "technologies": [
                 {"icon": "devicon-csharp-plain", "name": "C#"},
                 {"icon": "devicon-unity-plain", "name": "Unity"},
@@ -91,7 +91,7 @@
             "icon": "gamepad-2",
             "title": "Rush Market",
             "subtitle": "Videojuego Multijugador Competitivo",
-            "description": "Juego multijugador competitivo en Unity. Sistema de networking completo con Relay, Lobby y Autenticacion. Mecanicas de compra, combate y puntuacion en tiempo real. Galardonado con Matricula de Honor como mejor alumno valorado.",
+            "description": "Juego multijugador competitivo en Unity. Sistema de networking completo con Relay, Lobby y Autenticación. Mecánicas de compra, combate y puntuación en tiempo real. Galardonado con Matrícula de Honor como mejor alumno valorado.",
             "technologies": [
                 {"icon": "devicon-csharp-plain", "name": "C#"},
                 {"icon": "devicon-unity-plain", "name": "Unity"}
@@ -104,7 +104,7 @@
             "icon": "lightbulb",
             "title": "The Lighthouse",
             "subtitle": "Experiencia Narrativa sobre el Duelo",
-            "description": "Juego narrativo que aborda el proceso de duelo. 9 minijuegos unicos incluyendo cocina, reparacion de relojes, conexiones de cables y control de luz del faro. Sistema de dialogos, splines de movimiento y iluminacion volumetrica custom.",
+            "description": "Juego narrativo que aborda el proceso de duelo. 9 minijuegos únicos incluyendo cocina, reparación de relojes, conexiones de cables y control de luz del faro. Sistema de diálogos, splines de movimiento e iluminación volumétrica custom.",
             "technologies": [
                 {"icon": "devicon-csharp-plain", "name": "C#"},
                 {"icon": "devicon-unity-plain", "name": "Unity"}
@@ -117,17 +117,17 @@
     "training": [
         {
             "icon": "graduation-cap",
-            "title": "Grado en Diseno y Desarrollo de Videojuegos",
+            "title": "Grado en Diseño y Desarrollo de Videojuegos",
             "subtitle": "Florida Universitaria",
-            "description": "Especializacion en programacion y desarrollo tecnico. Motores Unity y Unreal, programacion de scripts, IA para NPCs, fisica para videojuegos, optimizacion de rendimiento, multijugador y realidad virtual.",
+            "description": "Especialización en programación y desarrollo técnico. Motores Unity y Unreal, programación de scripts, IA para NPCs, física para videojuegos, optimización de rendimiento, multijugador y realidad virtual.",
             "date": "2022 - 2026",
             "certificate": "https://www.floridauniversitaria.es/titulacion/grado-en-diseno-y-desarrollo-de-videojuegos-y-experiencias-interactivas"
         },
         {
             "icon": "graduation-cap",
-            "title": "Tecnico Superior ASIR",
+            "title": "Técnico Superior ASIR",
             "subtitle": "Centro Tnext",
-            "description": "Administracion de Sistemas Informaticos. Gestion de servidores Windows y Linux, redes corporativas, seguridad informatica, bases de datos, virtualizacion y scripting.",
+            "description": "Administración de Sistemas Informáticos. Gestión de servidores Windows y Linux, redes corporativas, seguridad informática, bases de datos, virtualización y scripting.",
             "date": "2020 - 2022",
             "certificate": "https://tnext.es/grado-superior-administracion-sistemas-informaticos"
         }
@@ -136,19 +136,19 @@
         {
             "image": "/unity.png",
             "title": "Unity & C# Avanzado",
-            "description": "4+ anos de desarrollo con Unity. Sistemas de networking, FSM, NavMesh, Cinemachine, URP y arquitectura de software.",
+            "description": "4+ años de desarrollo con Unity. Sistemas de networking, FSM, NavMesh, Cinemachine, URP y arquitectura de software.",
             "url": "https://unity.com/"
         },
         {
             "image": "/postgres.png",
             "title": "Bases de Datos",
-            "description": "Experiencia profesional en PostgreSQL, MySQL, optimizacion de consultas, migracion de datos y administracion de BD empresariales.",
+            "description": "Experiencia profesional en PostgreSQL, MySQL, optimización de consultas, migración de datos y administración de BD empresariales.",
             "url": "https://www.postgresql.org/"
         },
         {
             "image": "/extra_3.jpg",
             "title": "Arquitectura de Software",
-            "description": "Patrones de diseno, FSM, ScriptableObjects, sistemas de eventos y arquitectura modular en C# y Unity.",
+            "description": "Patrones de diseño, FSM, ScriptableObjects, sistemas de eventos y arquitectura modular en C# y Unity.",
             "url": "https://github.com/BerserkurNokk21"
         }
     ]
