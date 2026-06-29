@@ -110,7 +110,6 @@
                 {"icon": "devicon-unity-plain", "name": "Unity"}
             ],
             "image": "/lighthouse.jpg",
-            "gitlab": "https://gitlab.com/ddgarpan147/project-lighthouse",
             "tdd": "/data/GDD_The_Lighthouse.pdf"
         }
     ],
