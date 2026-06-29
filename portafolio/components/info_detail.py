@@ -10,13 +10,14 @@ def info_detail(info: Info) -> rx.Component:
         rx.hstack(
             icon_badge(info.icon),
             rx.vstack(
-                rx.text.strong(info.title),
-                rx.text(info.subtitle),
+                rx.text.strong(info.title, color="white"),
+                rx.text(info.subtitle, color="#888", font_size="0.9em"),
                 rx.text(
                     info.description,
                     size=Size.SMALL.value,
-                    color_scheme="gray",
-                    white_space="pre-line"
+                    color="#666",
+                    white_space="pre-line",
+                    line_height="1.6"
                 ),
                 rx.cond(
                     info.technologies,
@@ -25,7 +26,8 @@ def info_detail(info: Info) -> rx.Component:
                             rx.badge(
                                 rx.box(class_name=technology.icon),
                                 technology.name,
-                                color_scheme="gray"
+                                color_scheme="gray",
+                                variant="soft"
                             )
                             for technology in info.technologies
                         ],
@@ -82,7 +84,7 @@ def info_detail(info: Info) -> rx.Component:
         rx.vstack(
             rx.cond(
                 info.date != "",
-                rx.badge(info.date)
+                rx.badge(info.date, color_scheme="gray", variant="soft")
             ),
             rx.cond(
                 info.certificate != "",
@@ -97,5 +99,14 @@ def info_detail(info: Info) -> rx.Component:
         ),
         flex_direction=["column-reverse", "row"],
         spacing=Size.DEFAULT.value,
-        width="100%"
+        width="100%",
+        padding="1em",
+        border_radius="16px",
+        background="rgba(255, 255, 255, 0.02)",
+        border="1px solid rgba(255, 255, 255, 0.05)",
+        _hover={
+            "background": "rgba(255, 255, 255, 0.04)",
+            "border_color": "rgba(255, 255, 255, 0.1)"
+        },
+        transition="all 0.3s ease"
     )

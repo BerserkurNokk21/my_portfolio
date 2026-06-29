@@ -7,12 +7,12 @@ from portafolio.styles.styles import Size
 
 def extra(extras: list[Extra]) -> rx.Component:
     return rx.vstack(
-        heading("Extra"),
+        heading("Mas sobre mi"),
         rx.mobile_only(
             rx.vstack(
                 *[
-                    card_detail(extra)
-                    for extra in extras
+                    card_detail(extra_item)
+                    for extra_item in extras
                 ],
                 spacing=Size.DEFAULT.value
             ),
@@ -21,8 +21,8 @@ def extra(extras: list[Extra]) -> rx.Component:
         rx.tablet_and_desktop(
             rx.grid(
                 *[
-                    card_detail(extra)
-                    for extra in extras
+                    card_detail(extra_item)
+                    for extra_item in extras
                 ],
                 spacing=Size.DEFAULT.value,
                 columns="3"
@@ -30,5 +30,6 @@ def extra(extras: list[Extra]) -> rx.Component:
             width="100%"
         ),
         spacing=Size.DEFAULT.value,
-        width="100%"
+        width="100%",
+        padding_y="1em"
     )
